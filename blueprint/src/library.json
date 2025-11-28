@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Intelligent Systems. Zero Guesswork.",
+    "subtitle": "This is a brand-agnostic placeholder used by the Website Blueprint. Actual copy will be inserted during the Brand Customization Pass.",
+    "primaryCta": "Primary CTA",
+    "secondaryCta": "Secondary CTA"
+  },
+
+  "sections": {
+    "intro": {
+      "heading": "Blueprint Placeholder Section",
+      "body": "This section exists to preserve structural consistency across all brand implementations. The Brand Customization Pass replaces this with the correct content."
+    },
+
+    "roi": {
+      "heading": "ROI Calculator",
+      "body": "Logic is handled inside roi-calculator.js. All text here will be branded later."
+    },
+
+    "packages": {
+      "heading": "Our Packages",
+      "body": "Package cards and pricing structures are placeholders and will be replaced based on the brand’s offer strategy.",
+      "ctaLabel": "Select Package"
+    },
+
+    "footer": {
+      "legal": "© Website Blueprint Template — All Rights Reserved"
+    }
+  },
+
+  "packageTemplates": {
+    "starter": {
+      "name": "Starter",
+      "description": "Entry-tier implementation for businesses beginning their optimization journey.",
+      "cta": "Select Starter"
+    },
+    "growth": {
+      "name": "Growth",
+      "description": "Ideal for teams scaling delivery and requiring deeper automation and visibility.",
+      "cta": "Select Growth"
+    },
+    "scale": {
+      "name": "Scale",
+      "description": "Advanced operations package for teams needing full operational intelligence.",
+      "cta": "Select Scale"
+    }
+  },
+
+  "brandPlaceholders": {
+    "brandName": "BRAND_NAME",
+    "tagline": "BRAND_TAGLINE",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "logoPath": "./assets/logos/brand-logo.png"
+  },
+
+  "integrationNotes": {
+    "cline": "This JSON provides stable placeholders for Cline to rewrite safely during brand implementation.",
+    "codex": "Codex uses this map to target specific copy blocks without breaking structure.",
+    "customGpt": "Your Brand Customization Pass will update all copy values based on business summary, tone, and positioning."
+  }
+}
